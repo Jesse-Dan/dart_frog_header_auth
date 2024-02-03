@@ -2,10 +2,10 @@ name: dart_frog_header_auth
 description: Header-based authentication middleware for Dart Frog applications.
 homepage: https://dartfrog.vgv.dev/
 repository: https://github.com/Jesse-Dan/dart_frog_header_auth
-version: 0.0.1
+version: 0.0.2
 
 environment:
-  sdk: '>=3.2.3 <4.0.0'
+  sdk: '>=3.2.2 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
